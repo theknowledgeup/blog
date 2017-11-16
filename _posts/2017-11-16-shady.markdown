@@ -1,0 +1,21 @@
+---
+author: Ranvir
+comments: true
+date: 2017-11-16 06:47:01.449556
+layout: post
+title: Shady
+slug: shady
+---
+Hello Parita,
+
+I am an undergraduate student pursuing Computer Science and Engineering at Guru Nanak Dev Engg. Clg, Ludhiana. A coding and Linux enthusiast who wants to learn as many things as possible. A FOSS lover and an open source contributor. &nbsp;
+
+I have participated in Google Summer of Code 2017 with AboutCode and prepared a server using Django Rest Framework. PostgreSQL database was in the app. You can find more about my GSoC at the following link.  
+http://ranvirsingh.me/GSoC2017/
+
+You can find more about me on my website which is in the signature below. I have developed a recent project on Django: http://jeklog.com.
+
+I would be greatful if you provide me the opportunity to be the part of your organisation.
+
+Ranvir Singh,  
+http://ranvirsingh.me/
