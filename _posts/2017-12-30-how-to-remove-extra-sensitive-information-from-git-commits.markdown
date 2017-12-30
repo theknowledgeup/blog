@@ -1,7 +1,7 @@
 ---
 author: Ranvir Singh
 comments: true
-date: 2017-12-30 07:46:54.178447
+date: 2017-12-30 19:54:49.626610
 layout: post
 title: How to remove extra sensitive information from git commits
 slug: how-to-remove-extra-sensitive-information-from-git-commits
