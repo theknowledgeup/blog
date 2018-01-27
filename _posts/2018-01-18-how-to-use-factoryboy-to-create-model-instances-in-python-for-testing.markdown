@@ -1,7 +1,7 @@
 ---
 author: Ranvir Singh
 comments: true
-date: 2018-01-18 06:28:30.772986
+date: 2018-01-18 18:43:36.868837
 layout: post
 title: How to use FactoryBoy to create model instances in python for testing
 slug: how-to-use-factoryboy-to-create-model-instances-in-python-for-testing
@@ -60,4 +60,4 @@ Write following in the factories.py file inside your root directory.
 
 Now we can simply call these factories during the test generation and create as many instances of models as we want to. This is a pretty simple case but we really can do a lot more. We can create instances of varies types by making use of FuzzyText and Sequence.
 
-Hope you guys liked the idea of the post. We really can do a lot of stuff using this library. Do share your views regarding this post if you have used factories in the past or want to use it in your project.
+Hope you guys liked the idea of the post. We really can do a lot of stuff using this library. Do share your views regarding this post if you have used factories in the past or want to use it in your project. I hope you understood most of the things in the post. See you till the next time
